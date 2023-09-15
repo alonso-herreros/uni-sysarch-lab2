@@ -11,7 +11,7 @@ void t_init(int t_size) {
     }
     int i;
     for (i=0; i<t_size; i++) {
-        tabs[i] = '-';
+        tabs[i] = '\t';
     }
     tabs[i] = 0;
 }
@@ -19,6 +19,6 @@ void t_init(int t_size) {
 
 void t_print(char* str)
 {
-    printf(tabs)
+    printf(tabs);
     printf("%s\n", str);
 }

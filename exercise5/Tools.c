@@ -19,6 +19,6 @@ void t_init(int t_size) {
 
 void t_print(char* str)
 {
-    printf(tabs)
+    printf(tabs);
     printf("%s\n", str);
 }

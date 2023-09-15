@@ -6,4 +6,5 @@ void t_print(char* str, int t_size)
         printf("%c", '-');
     }
     printf("%s\n", str);
+    return;
 }
