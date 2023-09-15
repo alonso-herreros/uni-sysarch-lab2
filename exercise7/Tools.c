@@ -3,7 +3,7 @@
 #include <time.h>   
 
 
-int random(int min, int max)
+int custom_random(int min, int max)
 {
     if (max <= min) {
         return min;

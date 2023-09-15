@@ -16,6 +16,6 @@ int main(int argc, char **argv)
     for (int i=0; i<RANGE_COUNT; i++) {
         int min = ranges[i][0];
         int max = ranges[i][1];
-        printf("Number between %4d and %4d: %d\n", min, max, random(min, max));
+        printf("Number between %4d and %4d: %d\n", min, max, custom_random(min, max));
     }
 }
