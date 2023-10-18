@@ -3,9 +3,10 @@
 ---
 
 ## Compilation & execution
-Go into an exercise folder and execute:
+To compile and execute an exercise's code, you may use these commands inside the exercise folder:
 ```bash
 gcc ./*.c -o -Wall ./bin/P
-chmod 755 ./bin/P
+chmod o+rx ./bin/P
 ./bin/P
 ```
+The cc.sh files are not tested or guaranteed to work.
