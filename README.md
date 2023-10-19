@@ -4,7 +4,7 @@
 
 ---
 
-| Owner name | NIA (UC3M) | Main branch |
+| Owner name | Student ID @ UC3M (NIA) | Main branch |
 | :---: | :---: | :---: |
 | Alonso Herreros Copete | 100493990 | `main` |
 
