@@ -4,6 +4,10 @@
 
 ---
 
+| Owner name | NIA (UC3M) | Main branch |
+| :---: | :---: | :---: |
+| Alonso Herreros Copete | 100493990 | `main` |
+
 ## Compilation & execution
 To compile and execute an exercise's code, you may use these commands inside the exercise folder:
 ```bash
