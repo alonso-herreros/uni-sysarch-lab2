@@ -7,7 +7,7 @@
 ## Compilation & execution
 To compile and execute an exercise's code, you may use these commands inside the exercise folder:
 ```bash
-gcc ./*.c -o -Wall ./bin/P
+gcc ./*.c -o ./bin/P -g -Wall
 chmod o+rx ./bin/P
 ./bin/P
 ```
