@@ -1,6 +1,10 @@
-# **Systems Architecture - Lab 2**
-### (_2023/2024_) Degree in Telecommunication Technologies Engineering
-### C Programming
+## **Systems Architecture**
+# **Laboratory Session 2**
+**_Degree in Telecommunication Technologies Engineering_**  
+_Academic year 2023-2024_  
+C Programming  
+
+_Telematics Engineering Department - Universidad Carlos III de Madrid_
 
 ---
 

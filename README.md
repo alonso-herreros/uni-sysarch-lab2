@@ -1,5 +1,7 @@
-# [GITT 2-1] Systems Architecture - Lab 2
-### _Laboratory Session 2 - Academic year 2023/2024_
+# **Systems Architecture - Lab Session 2**
+**`[GITT 2-1]` `[SysArch]` `(2023/2024)`**
+### _Laboratory Session 2 - Academic year 2023-2024_
+
 ---
 
 ## Compilation & execution
