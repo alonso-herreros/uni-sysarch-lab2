@@ -16,3 +16,17 @@ chmod o+rx ./bin/P
 ./bin/P
 ```
 The cc.sh files are not tested or guaranteed to work.
+
+## Completion Summary
+
+| Exercise | Status |
+| --- | --- |
+| Exercise 1 | Done |
+| Exercise 2 | Untested |
+| Exercise 3 | Untested |
+| Exercise 4 | Untested |
+| Exercise 5 | Untested |
+| Exercise 6 | Untested |
+| Exercise 7 | Untested |
+| Exercise 8 | Untested |
+
