@@ -1,3 +1,4 @@
+#include "Tools.h"
 #include <stdio.h>
 
 void t_print(char* str, int t_size)

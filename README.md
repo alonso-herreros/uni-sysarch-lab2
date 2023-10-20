@@ -24,7 +24,7 @@ The cc.sh files are not tested or guaranteed to work.
 | Exercise 1 | Done |
 | Exercise 2 | Done |
 | Exercise 3 | Done |
-| Exercise 4 | Untested |
+| Exercise 4 | Done |
 | Exercise 5 | Untested |
 | Exercise 6 | Untested |
 | Exercise 7 | Untested |
