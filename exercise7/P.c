@@ -1,4 +1,5 @@
 #include "Tools.h"
+#include <stdio.h>
 
 #define RANGE_COUNT 5
 

@@ -1,5 +1,7 @@
+#include "Tools.h"
 #include <unistd.h>
 #include <stdlib.h>
+#include <stdio.h>
 #include <time.h>   
 
 
@@ -12,6 +14,3 @@ int custom_random(int min, int max)
     srand((unsigned) time(&t));
     return min + rand()%(max-min);
 }
-
-       
-
