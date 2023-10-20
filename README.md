@@ -29,4 +29,5 @@ The cc.sh files are not tested or guaranteed to work.
 | Exercise 6 | Done |
 | Exercise 7 | Done |
 | Exercise 8 | Done |
+| Exercise 9 | Done |
 
